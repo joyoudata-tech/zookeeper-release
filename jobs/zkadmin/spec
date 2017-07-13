@@ -1,0 +1,5 @@
+---
+name: zkadmin
+templates: {}
+properties: {}
+packages: [zk-client]

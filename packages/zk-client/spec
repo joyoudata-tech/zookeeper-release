@@ -1,0 +1,7 @@
+---
+name: zk-client
+
+dependencies:
+
+files:
+- zk-client/*
